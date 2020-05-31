@@ -1,6 +1,19 @@
 # SQS Demo
 Bootstrap SQS Consumer with JSON Processing Capabilities
 
+## Requirements
+1. AWS Account
+2. IAM User with SQS Access
+3. Gradle
+4. Java 8 (or higher)
+
+## Setting up AWS Environment variables
+Configure your environment variables with your IAM user credentials 
+```
+AWS_ACCESS_KEY=<YOUR_ACCESS_KEY_ID>
+AWS_SECRET_ACCESS_KEY=<YOUR_SECRET_ACCESS_KEY_ID>
+```
+
 ## Gists 
 * Processing Request: https://gist.github.com/startupchronicles/82869b2dca608c46f3b8a82c4370e2ec
 * Sqs Config: https://gist.github.com/startupchronicles/fddc6c6daca8b6ebfa6769e55eaa3000
