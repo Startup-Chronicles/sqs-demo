@@ -1,7 +1,7 @@
 # SQS Demo
 Bootstrap SQS Consumer with JSON Processing Capabilities
 
-## Requirements
+## Requirements
 1. AWS Account
 2. IAM User with SQS Access
 3. Gradle
